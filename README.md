@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wipesides
-- 👀 The basic goal of this place is supposed to be my history for all things I'll have made...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to my profile!
+My name is Ata Sesli.
+I am Computer Engineering Student in Istinye University.
+Currently, I am developing apps with Flutter.
+I am also working on a long-term game project which uses AI. If you want to hear the details and collaborate, you can reach me. 
 
 <!---
 wipesides/wipesides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
